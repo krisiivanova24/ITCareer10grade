@@ -1,0 +1,13 @@
+C:\Users\krisi\Desktop\arrayExamples\arrayExamples\bin\Debug\netcoreapp3.1\arrayExamples.exe
+C:\Users\krisi\Desktop\arrayExamples\arrayExamples\bin\Debug\netcoreapp3.1\arrayExamples.deps.json
+C:\Users\krisi\Desktop\arrayExamples\arrayExamples\bin\Debug\netcoreapp3.1\arrayExamples.runtimeconfig.json
+C:\Users\krisi\Desktop\arrayExamples\arrayExamples\bin\Debug\netcoreapp3.1\arrayExamples.runtimeconfig.dev.json
+C:\Users\krisi\Desktop\arrayExamples\arrayExamples\bin\Debug\netcoreapp3.1\arrayExamples.dll
+C:\Users\krisi\Desktop\arrayExamples\arrayExamples\bin\Debug\netcoreapp3.1\arrayExamples.pdb
+C:\Users\krisi\Desktop\arrayExamples\arrayExamples\obj\Debug\netcoreapp3.1\arrayExamples.csprojAssemblyReference.cache
+C:\Users\krisi\Desktop\arrayExamples\arrayExamples\obj\Debug\netcoreapp3.1\arrayExamples.AssemblyInfoInputs.cache
+C:\Users\krisi\Desktop\arrayExamples\arrayExamples\obj\Debug\netcoreapp3.1\arrayExamples.AssemblyInfo.cs
+C:\Users\krisi\Desktop\arrayExamples\arrayExamples\obj\Debug\netcoreapp3.1\arrayExamples.csproj.CoreCompileInputs.cache
+C:\Users\krisi\Desktop\arrayExamples\arrayExamples\obj\Debug\netcoreapp3.1\arrayExamples.dll
+C:\Users\krisi\Desktop\arrayExamples\arrayExamples\obj\Debug\netcoreapp3.1\arrayExamples.pdb
+C:\Users\krisi\Desktop\arrayExamples\arrayExamples\obj\Debug\netcoreapp3.1\arrayExamples.genruntimeconfig.cache
